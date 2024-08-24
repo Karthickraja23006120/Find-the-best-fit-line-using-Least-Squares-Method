@@ -59,7 +59,6 @@ plt.scatter(x,y)
 plt.plot(x,y_pred)
 ```
 ## Output:
-![best fit line](sam.png)
 ![image](https://github.com/user-attachments/assets/9655a365-22d4-445b-b924-431414305c10)
 ![ex 01](https://github.com/user-attachments/assets/e1cf9326-985c-41c5-bd33-ec50974def78)
 
